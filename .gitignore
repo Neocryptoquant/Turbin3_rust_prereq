@@ -1,0 +1,4 @@
+/target
+*wallet.json
+# Ignore all JSON files in the root directory
+*.json
